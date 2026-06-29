@@ -59,11 +59,23 @@ Resumo Executivo
 
 A análise dos cinco feedbacks identifica três focos prioritários: falhas técnicas críticas no aplicativo (login e estabilidade), problemas em transações PIX com potencial impacto financeiro e deficiências no atendimento digital. Esses pontos apresentam maior potencial de gerar insatisfação, aumento de chamados ao suporte e impacto na confiança dos clientes. Também foi identificado um feedback positivo relacionado à nova experiência de investimentos, indicando uma melhoria percebida na usabilidade dessa funcionalidade.
 
-<p align="center">
-  <img src="tabela.png" alt="Tabela de Insights do ChatGPT" width="100%">
-</p>
+📈 Tabela de Classificação dos Feedbacks
 
-Top 3 Prioridades
+========================================================================================================================
+TEMA                             | SENTIMENTO | URGÊNCIA | EVIDÊNCIA                 | AÇÃO RECOMENDADA
+========================================================================================================================
+Bug Técnico (Login/Estabilidade) | Negativo   | Alta     | "Não consigo fazer..."    | Priorizar correção da falha de login.
+---------------------------------+------------+----------+---------------------------+----------------------------------
+Usabilidade (Investimentos)      | Positivo   | Baixa    | "Adorei o novo painel..." | Manter padrão de design adotado.
+---------------------------------+------------+----------+---------------------------+----------------------------------
+Bug Técnico (PIX)                | Negativo   | Alta     | "O saldo sumiu..."        | Investigar processamento do PIX (CPF ocultado).
+---------------------------------+------------+----------+---------------------------+----------------------------------
+Desempenho                       | Negativo   | Média    | "Aplicativo muito lento..."| Otimizar consulta ao extrato.
+---------------------------------+------------+----------+---------------------------+----------------------------------
+Falha de Comunicação / Suporte   | Negativo   | Média    | "Demora de mais de 40m..."| Reduzir o tempo de espera no chat.
+========================================================================================================================
+
+🎯 Top 3 Prioridades Relatadas
 
 1. Corrigir imediatamente as falhas de login e estabilidade do aplicativo, eliminando os casos de tela branca e encerramento inesperado, por apresentarem impacto direto no acesso aos serviços.
 
