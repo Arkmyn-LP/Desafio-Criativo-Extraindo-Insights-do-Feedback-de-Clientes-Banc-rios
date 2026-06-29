@@ -69,10 +69,12 @@ Desempenho                       | Negativo   | Média    | "Aplicativo muito le
 Falha de Comunicação / Suporte   | Negativo   | Média    | "Demora de mais de 40m..."| Reduzir o tempo de espera no chat.
 ========================================================================================================================
 
-### 🎯 **Top 3 Prioridades Relatadas**
 
-1. **Estabilização de Acesso:** Corrigir imediatamente as falhas de login e estabilidade do aplicativo, eliminando os casos de tela branca e encerramento inesperado, por apresentarem impacto direto no acesso aos serviços.
 
-2. **Segurança Transacional:** Investigar e corrigir o fluxo das transações PIX, especialmente situações em que há débito em conta sem geração de comprovante, além de aprimorar a comunicação do status da operação ao cliente.
+## 🎯 4. Top 3 Prioridades Relatadas
 
-3. **Eficiência no Atendimento:** Reduzir o volume de chamados ao suporte, melhorando o tempo de resposta do chat e oferecendo recursos de autoatendimento para dúvidas frequentes sobre investimentos.
+1. Estabilização de Acesso: Corrigir imediatamente as falhas de login e estabilidade do aplicativo, eliminando os casos de tela branca e encerramento inesperado, por apresentarem impacto direto no acesso aos serviços.
+
+2. Segurança Transacional: Investigar e corrigir o fluxo das transações PIX, especialmente situações em que há débito em conta sem geração de comprovante, além de aprimorar a comunicação do status da operação ao cliente.
+
+3. Eficiência no Atendimento: Reduzir o volume de chamados ao suporte, melhorando o tempo de resposta do chat e oferecendo recursos de autoatendimento para dúvidas frequentes sobre investimentos.
