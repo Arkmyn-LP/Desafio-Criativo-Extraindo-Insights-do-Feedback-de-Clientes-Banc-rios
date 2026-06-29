@@ -59,7 +59,7 @@ Resumo Executivo
 
 A análise dos cinco feedbacks identifica três focos prioritários: falhas técnicas críticas no aplicativo (login e estabilidade), problemas em transações PIX com potencial impacto financeiro e deficiências no atendimento digital. Esses pontos apresentam maior potencial de gerar insatisfação, aumento de chamados ao suporte e impacto na confiança dos clientes. Também foi identificado um feedback positivo relacionado à nova experiência de investimentos, indicando uma melhoria percebida na usabilidade dessa funcionalidade.
 
-![Tabela de Insights](tabela.png)
+![Tabela de Insights](./tabela.png)
 
 Top 3 Prioridades
 
